@@ -1,0 +1,76 @@
+table_name,column_name,data_type,description,business_definition
+categories,category_id,integer,Primary key for the category dimension,Unique identifier for a product category
+categories,category_name,string,Name of the category (e.g. Electronics),The merchandising category a product belongs to
+categories,department,string,Higher-level grouping of categories (e.g. Apparel Home Technology),Department roll-up used for high-level reporting
+regions,region_id,integer,Primary key for the region dimension,Unique identifier for a sales/shipping region
+regions,region_name,string,Name of the region (e.g. North South Pacific),Geographic sales territory
+regions,country,string,Country the region belongs to,Fictional country "Novaland" for all regions
+regions,market_type,string,Urban/Suburban/Rural/Remote classification,Describes the density and remoteness of the region's customer base
+stores,store_id,integer,Primary key for the store dimension,Unique identifier for a fulfillment location
+stores,store_name,string,Name of the fulfillment center/warehouse,Human-readable name of the facility
+stores,region_id,integer,Foreign key to regions.region_id,Region the store/fulfillment center is located in
+stores,store_type,string,Fulfillment Center or Regional Warehouse,Type of facility fulfilling orders
+stores,opened_date,date,Date the facility opened,When the fulfillment center began operating
+products,product_id,integer,Primary key for the product dimension,Unique identifier for a sellable product
+products,product_name,string,Marketing name of the product,Name shown to customers
+products,category_id,integer,Foreign key to categories.category_id,Category the product belongs to
+products,brand,string,Brand name (may be null),Manufacturer/brand label; a small % are intentionally missing
+products,unit_cost,decimal,Cost to NovaMart per unit,Cost of goods sold (COGS) per unit before any discount
+products,list_price,decimal,Standard selling price per unit before discount,The catalog/list price shown before any promotion
+products,launch_date,date,Date the product was first listed for sale,Used to identify new-product promotional activity
+products,product_status,string,Active Clearance or Discontinued,Lifecycle stage of the product; affects discount behavior
+customers,customer_id,integer,Primary key for the customer dimension,Unique identifier for a customer account
+customers,first_name,string,Customer's first name,Synthetic (Faker-generated) first name
+customers,last_name,string,Customer's last name,Synthetic (Faker-generated) last name
+customers,gender,string,Female Male or Other,Self-reported gender at signup
+customers,birth_date,date,Customer's date of birth,Used for age-based segmentation; a few intentional invalid values exist
+customers,signup_date,date,Date the customer created an account,First-touch date used for cohort/tenure analysis
+customers,city,string,Customer's city (may be null or inconsistent),Self-reported city; contains intentional data-quality noise
+customers,region_id,integer,Foreign key to regions.region_id,Customer's home/billing region
+customers,customer_segment,string,Budget Standard Premium or VIP,Value tier assigned based on underlying purchasing propensity
+customers,acquisition_channel,string,"Organic Search, Paid Search, Social Media, Email, Referral, Affiliate, Direct",Marketing channel that acquired the customer
+orders,order_id,integer,Primary key for the orders fact table,Unique identifier for a single customer order
+orders,customer_id,integer,Foreign key to customers.customer_id,Customer who placed the order
+orders,order_date,date,Date the order was placed,Transaction date used for all time-series analysis
+orders,region_id,integer,Foreign key to regions.region_id,Region the order was shipped to
+orders,store_id,integer,Foreign key to stores.store_id,Fulfillment center that processed the order
+orders,order_status,string,Completed Cancelled Pending or Returned,Current lifecycle status of the order
+orders,shipping_method,string,Standard Express Next-Day or Economy (may be null),Shipping speed selected at checkout
+orders,shipping_cost,decimal,Cost charged/incurred for shipping,Shipping fee associated with the order
+orders,discount_amount,decimal,Total discount applied across all items in the order,Sum of item-level discount_amount for the order
+orders,tax_amount,decimal,Tax charged on the order,Computed as a flat rate applied to discounted item revenue
+orders,order_total,decimal,Final amount charged to the customer,item revenue (post-discount) + tax_amount + shipping_cost
+order_items,order_item_id,integer,Primary key for the order_items fact table,Unique identifier for a single line item within an order
+order_items,order_id,integer,Foreign key to orders.order_id,Order the line item belongs to
+order_items,product_id,integer,Foreign key to products.product_id,Product purchased in this line item
+order_items,quantity,integer,Number of units purchased,Units of the product purchased in this line item
+order_items,unit_price,decimal,Price per unit at time of sale,Selling price per unit before discount (close to list_price)
+order_items,discount_percent,decimal,Discount rate applied (0.00-0.30),Percentage discount applied to this line item
+order_items,discount_amount,decimal,Dollar discount applied,quantity * unit_price * discount_percent
+order_items,item_revenue,decimal,Net revenue for this line item,(quantity * unit_price) - discount_amount
+order_items,unit_cost,decimal,Cost per unit (copied from products at time of sale),Cost of goods sold per unit
+order_items,total_cost,decimal,Total COGS for this line item,quantity * unit_cost
+order_items,gross_profit,decimal,Profit for this line item,item_revenue - total_cost
+payments,payment_id,integer,Primary key for the payments fact table,Unique identifier for a payment transaction
+payments,order_id,integer,Foreign key to orders.order_id,Order the payment applies to
+payments,payment_date,date,Date the payment was processed,Should generally be on/after order_date (small % intentional exceptions)
+payments,payment_method,string,Credit Card Debit Card Digital Wallet Bank Transfer or PayPal (inconsistent spelling in places),Method used to pay for the order
+payments,payment_status,string,Successful Failed or Refunded,Outcome of the payment attempt
+payments,amount,decimal,Amount charged,Equal to the corresponding order's order_total
+returns,return_id,integer,Primary key for the returns fact table,Unique identifier for a return event
+returns,order_id,integer,Foreign key to orders.order_id,Order that was (partially or fully) returned
+returns,return_date,date,Date the return was initiated,Should be on/after order_date
+returns,return_reason,string,"Damaged, Wrong Item, Customer Changed Mind, Poor Quality, Size Issue, Late Delivery",Customer-provided reason for the return
+returns,refund_amount,decimal,Dollar amount refunded,Portion of order_total refunded to the customer
+date,date,date,Primary key for the date dimension,Calendar date
+date,day,integer,Day of month,1-31
+date,day_name,string,Name of the weekday,e.g. Monday
+date,week,integer,ISO week number,1-53
+date,month,integer,Month number,1-12
+date,month_name,string,Name of the month,e.g. January
+date,quarter,integer,Calendar quarter,1-4
+date,year,integer,Calendar year,2023-2025
+date,year_month,string,Year-month key,e.g. 2023-01
+date,is_weekend,boolean,Whether the date falls on Saturday/Sunday,Used for weekday vs weekend demand analysis
+date,is_holiday,boolean,Whether the date is a recognized shopping-relevant holiday,Flags key seasonal demand dates
+date,holiday_name,string,Name of the holiday if applicable (blank otherwise),e.g. Black Friday Christmas Mother's Day

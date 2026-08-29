@@ -1,0 +1,501 @@
+product_id,product_name,category_id,brand,unit_cost,list_price,launch_date,product_status
+1,CrispCo Mechanical Keyboard,1,CrispCo,172.63,195.48,2024-11-27,Active
+2,BoldStyle Wireless Headphones,1,BoldStyle,333.22,423.95,2024-06-10,Active
+3,PeakCraft Wireless Headphones,1,PeakCraft,402.2,483.76,2022-11-21,Active
+4,NimbusCraft Webcam,1,NimbusCraft,63.83,87.38,2022-02-02,Active
+5,LumenLabs Mechanical Keyboard,1,LumenLabs,135.37,154.24,2025-07-25,Active
+6,NimbusStyle 27-inch Monitor,1,NimbusStyle,91.55,103.94,2022-11-15,Active
+7,PureLabs Smart Plug,1,PureLabs,394.26,428.29,2021-10-25,Active
+8,EcoLabs Streaming Stick,1,EcoLabs,310.12,404.86,2021-11-01,Active
+9,SmartLabs Wireless Mouse,1,SmartLabs,92.38,119.68,2025-02-01,Active
+10,HomeStyle Noise Cancelling Earbuds,1,HomeStyle,271.08,331.25,2024-01-12,Active
+11,VitalCo Wireless Headphones,1,VitalCo,89.07,100.77,2024-11-29,Active
+12,HomeStyle Power Bank,1,HomeStyle,284.18,373.69,2024-07-30,Active
+13,AeroCo Streaming Stick,1,AeroCo,71.12,85.13,2023-09-27,Active
+14,UrbanFit Mechanical Keyboard,1,UrbanFit,409.04,446.55,2025-08-19,Clearance
+15,BoldFit Portable SSD,1,BoldFit,252.37,303.6,2023-01-21,Active
+16,UrbanGear Noise Cancelling Earbuds,1,UrbanGear,131.57,181.43,2023-10-22,Active
+17,PrimePro Bluetooth Speaker,1,PrimePro,247.44,342.92,2025-01-03,Active
+18,AeroGear Power Bank,1,AeroGear,78.99,108.74,2024-02-05,Active
+19,HomeCraft Smartwatch,1,HomeCraft,270.62,284.86,2025-02-24,Discontinued
+20,UrbanCraft Bluetooth Speaker,1,UrbanCraft,406.76,555.66,2023-12-01,Active
+21,ZenFit Tablet,1,ZenFit,265.67,384.19,2024-06-20,Active
+22,NimbusLabs Smartwatch,1,NimbusLabs,79.73,97.15,2021-08-12,Active
+23,PeakTech Tablet,1,PeakTech,218.79,257.01,2022-05-27,Active
+24,UrbanPro Tablet,1,UrbanPro,256.41,340.93,2022-09-02,Active
+25,HomeCo Bluetooth Speaker,1,HomeCo,71.93,94.84,2021-10-05,Clearance
+26,SwiftTech Webcam,1,SwiftTech,114.63,155.5,2022-06-04,Active
+27,HomeCo Streaming Stick,1,HomeCo,426.59,515.97,2021-11-07,Active
+28,HomeCo Wireless Mouse,1,HomeCo,79.57,83.76,2022-08-15,Active
+29,ZenStyle Wireless Headphones,1,ZenStyle,91.78,213.28,2024-03-03,Active
+30,AeroTech Wireless Mouse,1,AeroTech,155.33,207.69,2022-12-30,Active
+31,VitalWorks Streaming Stick,1,VitalWorks,54.49,83.56,2023-01-07,Active
+32,ZenWorks Bluetooth Speaker,1,ZenWorks,232.08,244.29,2022-04-28,Active
+33,AeroFit Smartwatch,1,AeroFit,264.58,346.14,2022-07-28,Active
+34,SwiftCo Portable SSD,1,SwiftCo,113.97,127.22,2025-06-22,Active
+35,VitalCraft Laptop Stand,1,VitalCraft,362.2,407.72,2024-03-22,Active
+36,BoldCo Laptop Stand,1,BoldCo,177.26,225.84,2024-01-21,Active
+37,HomeTech Power Bank,1,HomeTech,179.42,192.23,2022-02-26,Active
+38,NovaPro Tablet,1,NovaPro,382.42,481.49,2024-07-29,Active
+39,ZenFit Wireless Headphones,1,ZenFit,196.41,303.45,2022-02-14,Discontinued
+40,CrispLabs Tablet,1,CrispLabs,125.84,135.76,2023-01-22,Active
+41,NovaTech Wireless Headphones,1,NovaTech,89.99,108.95,2025-09-14,Active
+42,BoldLabs Portable SSD,1,BoldLabs,105.46,118.85,2024-03-10,Active
+43,PrimeGear Vacuum Cleaner,2,PrimeGear,19.72,32.35,2023-10-30,Active
+44,VitalFit Stand Mixer,2,VitalFit,75.44,84.19,2024-05-19,Active
+45,LumenLabs Cutting Board,2,LumenLabs,24.68,35.76,2025-01-25,Active
+46,PurePro Knife Set,2,PurePro,22.39,31.62,2024-10-11,Active
+47,HomeWorks Toaster Oven,2,HomeWorks,92.61,138.53,2022-05-29,Active
+48,SwiftWorks Air Fryer,2,SwiftWorks,42.51,67.6,2021-07-21,Active
+49,PeakTech Knife Set,2,PeakTech,59.97,141.19,2022-10-13,Active
+50,EcoLabs Cutting Board,2,EcoLabs,41.64,57.76,2022-07-29,Clearance
+51,SwiftPro Blender,2,SwiftPro,94.61,104.23,2022-04-30,Active
+52,BoldLabs Electric Kettle,2,BoldLabs,45.53,118.35,2025-07-02,Active
+53,AeroCraft Rice Cooker,2,AeroCraft,69.22,80.4,2025-03-19,Active
+54,EcoWorks Coffee Maker,2,EcoWorks,29.86,38.2,2022-10-12,Active
+55,NimbusPro Food Storage Set,2,NimbusPro,44.17,72.53,2024-04-03,Active
+56,AeroFit Blender,2,AeroFit,18.01,32.35,2023-02-17,Active
+57,HomeFit Toaster Oven,2,HomeFit,20.87,30.75,2025-05-18,Clearance
+58,HomeTech Coffee Maker,2,,16.32,27.51,2023-05-28,Active
+59,CrispCraft Cutting Board,2,CrispCraft,40.13,61.74,2022-07-25,Active
+60,PrimeWorks Air Fryer,2,PrimeWorks,10.81,34.61,2022-06-26,Active
+61,SwiftCo Rice Cooker,2,SwiftCo,21.4,27.31,2023-11-06,Active
+62,EcoPro Air Fryer,2,EcoPro,112.66,131.1,2022-07-21,Active
+63,CrispGear Coffee Maker,2,CrispGear,65.06,105.21,2023-12-13,Active
+64,NimbusCo Cutting Board,2,NimbusCo,21.65,31.82,2025-04-22,Active
+65,NimbusStyle Food Storage Set,2,NimbusStyle,31.34,49.84,2023-02-23,Active
+66,ZenPro Stand Mixer,2,ZenPro,35.94,58.86,2022-05-14,Active
+67,PrimeCraft Toaster Oven,2,PrimeCraft,29.55,44.96,2025-09-27,Active
+68,PrimeFit Blender,2,PrimeFit,79.4,136.87,2023-08-16,Active
+69,CrispFit Vacuum Cleaner,2,CrispFit,68.3,114.35,2021-10-22,Active
+70,VitalWorks Toaster Oven,2,VitalWorks,57.01,77.7,2021-08-14,Active
+71,NovaTech Electric Kettle,2,NovaTech,74.98,116.87,2021-11-21,Active
+72,PeakCo Stand Mixer,2,PeakCo,51.6,91.76,2024-02-19,Active
+73,PeakTech Rice Cooker,2,PeakTech,49.2,104.99,2024-11-05,Active
+74,NimbusGear Cutting Board,2,NimbusGear,87.97,136.17,2023-03-31,Active
+75,NovaPro Toaster Oven,2,NovaPro,17.38,33.98,2021-09-09,Active
+76,PureWorks Vacuum Cleaner,2,PureWorks,40.9,63.77,2023-01-26,Active
+77,VitalWorks Coffee Maker,2,VitalWorks,76.79,132.61,2025-09-24,Active
+78,PureLabs Stand Mixer,2,PureLabs,44.56,81.26,2023-09-16,Active
+79,SmartLabs Knife Set,2,SmartLabs,77.75,125.03,2025-08-16,Active
+80,PrimeStyle Cookware Set,2,PrimeStyle,29.35,43.92,2025-02-22,Active
+81,AeroGear Toaster Oven,2,AeroGear,23.46,49.68,2021-06-19,Active
+82,ZenGear Rice Cooker,2,ZenGear,55.52,101.19,2024-07-15,Active
+83,SwiftGear Air Fryer,2,SwiftGear,80.2,137.44,2024-05-15,Active
+84,PeakStyle Electric Kettle,2,PeakStyle,14.23,31.1,2023-09-29,Active
+85,VitalPro Facial Serum,3,VitalPro,23.34,38.88,2022-07-28,Active
+86,ZenFit Makeup Brush Set,3,ZenFit,4.1,10.59,2024-03-11,Active
+87,VitalPro Hair Dryer,3,VitalPro,22.51,44.44,2021-11-24,Active
+88,NimbusPro Moisturizer,3,NimbusPro,31.7,59.87,2023-04-20,Active
+89,PurePro Shampoo Bar,3,PurePro,2.87,5.37,2023-05-20,Active
+90,LumenStyle Perfume,3,LumenStyle,4.07,8.18,2025-07-19,Active
+91,LumenPro Facial Serum,3,LumenPro,3.91,5.68,2025-03-18,Active
+92,NovaGear Lip Balm Set,3,NovaGear,21.93,41.27,2022-07-22,Active
+93,NimbusGear Moisturizer,3,NimbusGear,8.24,28.34,2023-08-02,Clearance
+94,CrispWorks Lip Balm Set,3,CrispWorks,3.15,6.82,2022-03-10,Active
+95,VitalCo Facial Serum,3,VitalCo,4.61,7.35,2025-05-15,Active
+96,BoldPro Lip Balm Set,3,BoldPro,7.3,29.18,2025-03-10,Active
+97,VitalPro Facial Serum,3,VitalPro,2.58,5.55,2022-09-16,Active
+98,PureCraft Moisturizer,3,PureCraft,3.23,6.28,2024-03-08,Active
+99,PureWorks Sunscreen SPF50,3,PureWorks,9.98,24.31,2024-01-20,Active
+100,CrispFit Skincare Set,3,CrispFit,6.63,10.57,2022-01-28,Active
+101,UrbanCo Makeup Brush Set,3,UrbanCo,3.37,7.23,2024-09-20,Active
+102,NimbusGear Makeup Brush Set,3,NimbusGear,2.97,6.72,2023-10-02,Active
+103,AeroFit Shampoo Bar,3,AeroFit,10.34,22.82,2024-10-15,Active
+104,EcoTech Makeup Brush Set,3,EcoTech,6.0,8.59,2023-09-18,Active
+105,LumenPro Lip Balm Set,3,LumenPro,5.15,16.24,2021-06-01,Active
+106,EcoCraft Sunscreen SPF50,3,EcoCraft,13.85,28.61,2022-10-27,Active
+107,PureFit Lip Balm Set,3,PureFit,11.49,19.57,2021-07-01,Active
+108,CrispWorks Hair Dryer,3,CrispWorks,4.97,17.88,2025-06-10,Active
+109,HomeGear Eyeshadow Palette,3,HomeGear,9.9,18.22,2025-03-23,Active
+110,VitalWorks Eyeshadow Palette,3,VitalWorks,6.43,17.07,2025-01-07,Discontinued
+111,BoldStyle Eyeshadow Palette,3,BoldStyle,3.97,10.04,2022-09-30,Active
+112,NovaLabs Hair Dryer,3,NovaLabs,15.52,31.66,2021-08-31,Active
+113,PeakStyle Makeup Brush Set,3,PeakStyle,3.93,7.32,2025-03-21,Active
+114,PrimeWorks Hair Dryer,3,PrimeWorks,13.53,54.11,2025-07-09,Active
+115,EcoFit Perfume,3,EcoFit,14.02,28.86,2021-10-14,Active
+116,PeakCraft Facial Serum,3,PeakCraft,3.44,8.41,2023-07-10,Active
+117,PeakTech Makeup Brush Set,3,PeakTech,33.08,58.4,2021-09-18,Active
+118,BoldStyle Skincare Set,3,BoldStyle,2.0,7.11,2024-09-17,Active
+119,PrimePro Eyeshadow Palette,3,PrimePro,3.85,14.69,2024-09-25,Active
+120,CrispFit Moisturizer,3,CrispFit,18.85,47.63,2021-12-21,Active
+121,SmartFit Moisturizer,3,SmartFit,15.83,21.47,2023-06-23,Discontinued
+122,ZenFit Lip Balm Set,3,ZenFit,17.1,40.68,2023-10-19,Active
+123,EcoLabs Perfume,3,EcoLabs,3.3,5.78,2022-07-25,Active
+124,CrispStyle Hair Dryer,3,CrispStyle,15.62,40.77,2025-03-13,Active
+125,PeakStyle Hair Dryer,3,PeakStyle,25.9,47.92,2023-04-01,Active
+126,VitalCraft Hair Dryer,3,VitalCraft,8.84,17.27,2022-05-02,Active
+127,NovaCraft Hiking Backpack,4,NovaCraft,53.56,77.41,2023-10-02,Active
+128,LumenFit Resistance Bands,4,LumenFit,17.73,26.14,2024-07-30,Active
+129,EcoFit Resistance Bands,4,EcoFit,14.4,25.33,2022-04-15,Active
+130,PureWorks Jump Rope,4,PureWorks,63.83,145.19,2022-10-07,Active
+131,NimbusLabs Jump Rope,4,NimbusLabs,67.18,90.94,2025-09-23,Active
+132,LumenWorks Camping Tent,4,LumenWorks,11.05,30.67,2024-03-25,Active
+133,SwiftWorks Hiking Backpack,4,SwiftWorks,106.1,142.1,2023-04-25,Active
+134,SwiftStyle Cycling Gloves,4,SwiftStyle,62.38,95.84,2023-08-29,Active
+135,UrbanPro Water Bottle,4,UrbanPro,30.21,60.12,2021-12-09,Active
+136,CrispFit Hiking Backpack,4,CrispFit,34.98,52.26,2022-05-22,Discontinued
+137,SmartWorks Water Bottle,4,SmartWorks,66.64,131.07,2022-11-18,Clearance
+138,CrispPro Running Belt,4,CrispPro,19.75,27.28,2023-12-19,Active
+139,CrispLabs Jump Rope,4,CrispLabs,88.86,117.87,2022-05-31,Active
+140,CrispCraft Yoga Mat,4,CrispCraft,16.21,38.06,2022-05-15,Active
+141,ZenPro Hiking Backpack,4,ZenPro,45.72,84.13,2021-09-21,Active
+142,VitalLabs Camping Tent,4,VitalLabs,60.37,83.28,2024-02-25,Active
+143,VitalCraft Cycling Gloves,4,VitalCraft,35.55,42.71,2022-05-29,Active
+144,BoldTech Dumbbell Set,4,BoldTech,89.8,122.41,2025-05-04,Discontinued
+145,SwiftCraft Foam Roller,4,SwiftCraft,37.57,106.23,2025-02-20,Active
+146,PeakLabs Foam Roller,4,PeakLabs,16.81,31.95,2021-09-21,Active
+147,BoldLabs Cycling Gloves,4,BoldLabs,32.67,50.5,2022-06-12,Active
+148,PureCraft Resistance Bands,4,PureCraft,35.24,48.11,2024-04-24,Active
+149,VitalPro Running Belt,4,VitalPro,35.42,77.93,2022-05-06,Active
+150,ZenStyle Hiking Backpack,4,ZenStyle,68.12,96.18,2021-12-27,Active
+151,PrimeGear Running Belt,4,PrimeGear,24.28,44.78,2025-06-20,Active
+152,SmartGear Cycling Gloves,4,SmartGear,40.88,72.05,2023-11-21,Active
+153,BoldFit Dumbbell Set,4,BoldFit,10.37,33.03,2023-06-19,Active
+154,PrimeFit Cycling Gloves,4,PrimeFit,51.12,101.83,2024-10-25,Active
+155,NimbusGear Water Bottle,4,NimbusGear,71.03,107.61,2024-11-30,Active
+156,SwiftWorks Resistance Bands,4,SwiftWorks,28.76,68.45,2022-03-29,Active
+157,PrimeGear Cycling Gloves,4,PrimeGear,26.38,54.31,2021-11-01,Active
+158,VitalLabs Resistance Bands,4,VitalLabs,23.64,26.91,2023-04-14,Discontinued
+159,NimbusWorks Dumbbell Set,4,NimbusWorks,27.55,43.77,2023-04-02,Active
+160,VitalCo Running Belt,4,VitalCo,19.98,27.86,2023-06-10,Active
+161,NimbusFit Foam Roller,4,NimbusFit,31.73,52.74,2024-07-29,Active
+162,EcoCraft Camping Tent,4,EcoCraft,15.67,25.06,2024-05-01,Active
+163,NovaFit Foam Roller,4,NovaFit,73.16,101.24,2025-09-05,Active
+164,EcoFit Running Belt,4,EcoFit,30.09,38.6,2021-11-03,Active
+165,PrimeFit Cycling Gloves,4,PrimeFit,97.56,132.41,2023-02-28,Active
+166,PrimeStyle Cycling Gloves,4,PrimeStyle,17.49,32.74,2022-11-20,Active
+167,NovaGear Yoga Mat,4,NovaGear,17.63,35.03,2025-02-24,Active
+168,NovaLabs Jump Rope,4,NovaLabs,17.64,38.55,2022-06-29,Active
+169,SwiftStyle Wool Sweater,5,SwiftStyle,12.68,41.68,2022-03-29,Active
+170,NovaGear Fleece Vest,5,NovaGear,21.73,41.9,2023-05-12,Active
+171,VitalWorks Joggers,5,VitalWorks,22.16,57.75,2023-03-30,Active
+172,PureTech Chino Pants,5,PureTech,17.01,36.43,2022-08-15,Active
+173,VitalCraft Summer Dress,5,VitalCraft,2.91,6.07,2022-07-01,Active
+174,PrimeCraft Cotton T-Shirt,5,PrimeCraft,5.08,7.54,2025-06-01,Active
+175,UrbanLabs Linen Shirt,5,UrbanLabs,16.34,45.65,2023-05-03,Active
+176,PrimeLabs Denim Jacket,5,PrimeLabs,13.22,27.99,2025-02-23,Active
+177,AeroGear Hoodie,5,AeroGear,1.59,5.21,2023-10-20,Active
+178,NovaCraft Denim Jacket,5,NovaCraft,23.93,46.49,2021-08-20,Active
+179,HomeCo Denim Jacket,5,HomeCo,3.8,5.67,2025-09-29,Active
+180,UrbanCraft Summer Dress,5,UrbanCraft,21.36,39.94,2025-01-14,Active
+181,HomeFit Linen Shirt,5,HomeFit,5.83,9.39,2025-08-12,Active
+182,BoldWorks Chino Pants,5,BoldWorks,9.84,26.93,2025-06-06,Active
+183,UrbanLabs Fleece Vest,5,UrbanLabs,7.0,14.17,2025-02-03,Clearance
+184,NimbusPro Fleece Vest,5,NimbusPro,10.57,18.21,2022-02-19,Discontinued
+185,CrispGear Summer Dress,5,CrispGear,13.28,27.26,2023-07-09,Active
+186,EcoFit Denim Jacket,5,EcoFit,5.41,8.21,2022-05-05,Active
+187,LumenLabs Summer Dress,5,LumenLabs,6.85,12.82,2023-02-25,Active
+188,LumenCo Fleece Vest,5,LumenCo,11.64,34.99,2021-09-01,Active
+189,CrispGear Summer Dress,5,CrispGear,20.31,36.33,2023-01-21,Active
+190,BoldCraft Fleece Vest,5,BoldCraft,1.54,5.3,2025-09-07,Active
+191,CrispLabs Joggers,5,CrispLabs,6.35,13.33,2022-07-25,Active
+192,LumenCo Rain Jacket,5,LumenCo,5.58,13.82,2024-10-24,Active
+193,VitalWorks Cotton T-Shirt,5,VitalWorks,6.21,12.77,2023-05-22,Active
+194,SmartFit Denim Jacket,5,SmartFit,20.62,27.4,2023-04-01,Active
+195,PeakFit Denim Jacket,5,PeakFit,16.58,32.52,2025-07-25,Active
+196,AeroWorks Hoodie,5,AeroWorks,4.51,7.93,2025-09-23,Active
+197,ZenFit Denim Jacket,5,ZenFit,7.16,16.54,2023-10-28,Active
+198,NovaLabs Wool Sweater,5,NovaLabs,3.43,6.58,2024-07-12,Active
+199,PrimeLabs Chino Pants,5,PrimeLabs,19.09,46.99,2022-02-01,Active
+200,LumenCraft Joggers,5,LumenCraft,2.9,5.98,2022-09-13,Active
+201,SmartWorks Wool Sweater,5,SmartWorks,25.36,40.9,2025-08-12,Active
+202,AeroWorks Denim Jacket,5,AeroWorks,5.23,9.38,2023-12-04,Active
+203,PrimeCo Rain Jacket,5,PrimeCo,7.35,10.43,2023-10-07,Active
+204,PeakPro Fleece Vest,5,PeakPro,11.23,34.08,2024-08-28,Active
+205,EcoTech Hoodie,5,EcoTech,3.28,6.42,2021-08-30,Active
+206,LumenCo Denim Jacket,5,LumenCo,6.33,13.97,2023-12-12,Active
+207,LumenLabs Denim Jacket,5,LumenLabs,27.92,43.93,2023-08-06,Active
+208,BoldLabs Hoodie,5,BoldLabs,5.13,9.19,2025-02-09,Active
+209,AeroStyle Cotton T-Shirt,5,AeroStyle,5.32,18.1,2022-02-05,Active
+210,CrispCraft Rain Jacket,5,CrispCraft,7.52,14.72,2025-07-30,Active
+211,HomeGear Running Shoes,6,HomeGear,74.88,137.94,2021-10-05,Active
+212,ZenGear Canvas Sneakers,6,ZenGear,18.38,39.35,2022-03-22,Active
+213,HomeGear Running Shoes,6,HomeGear,32.41,74.33,2023-12-29,Active
+214,PrimeWorks Dress Shoes,6,PrimeWorks,32.58,34.97,2024-05-04,Active
+215,BoldLabs Hiking Boots,6,BoldLabs,17.19,32.88,2022-06-08,Active
+216,ZenCo Running Shoes,6,ZenCo,29.46,46.17,2021-12-07,Active
+217,NovaLabs Trail Runners,6,NovaLabs,20.62,36.55,2025-04-10,Active
+218,CrispFit Trail Runners,6,CrispFit,18.67,25.1,2022-06-25,Active
+219,LumenPro Sandals,6,LumenPro,19.34,31.5,2023-12-29,Active
+220,ZenWorks Sandals,6,ZenWorks,91.28,130.4,2024-02-06,Active
+221,PeakWorks Hiking Boots,6,PeakWorks,38.56,73.21,2023-03-26,Active
+222,SwiftWorks Hiking Boots,6,SwiftWorks,16.89,34.34,2023-12-11,Active
+223,PurePro Ankle Boots,6,PurePro,76.25,123.72,2023-09-06,Active
+224,ZenTech Hiking Boots,6,ZenTech,49.79,136.54,2025-06-19,Active
+225,EcoCraft Ankle Boots,6,EcoCraft,51.34,90.79,2022-04-20,Active
+226,VitalFit Sandals,6,VitalFit,53.2,79.7,2024-07-08,Active
+227,ZenCraft Hiking Boots,6,ZenCraft,14.72,29.47,2022-06-13,Active
+228,HomeLabs Trail Runners,6,HomeLabs,18.86,25.9,2023-02-17,Active
+229,HomeStyle Ankle Boots,6,HomeStyle,27.33,38.9,2024-04-29,Active
+230,BoldStyle Hiking Boots,6,BoldStyle,16.21,32.05,2022-09-18,Active
+231,LumenGear Trail Runners,6,LumenGear,55.0,66.03,2022-10-14,Active
+232,SmartCo Dress Shoes,6,SmartCo,22.93,39.49,2024-09-03,Active
+233,PeakGear Dress Shoes,6,PeakGear,44.54,85.37,2021-09-23,Active
+234,EcoLabs Ankle Boots,6,EcoLabs,48.27,74.61,2023-05-27,Active
+235,BoldStyle Hiking Boots,6,BoldStyle,32.91,66.33,2025-09-28,Active
+236,PrimeStyle Hiking Boots,6,PrimeStyle,24.96,38.72,2025-09-24,Active
+237,PrimeStyle Ankle Boots,6,PrimeStyle,57.42,94.99,2021-09-24,Active
+238,NimbusPro Sandals,6,NimbusPro,22.85,56.64,2022-05-04,Active
+239,SwiftFit Hiking Boots,6,SwiftFit,42.75,71.43,2022-07-25,Active
+240,UrbanCo Slip-On Loafers,6,UrbanCo,76.8,116.84,2025-06-17,Clearance
+241,NovaCraft Sandals,6,NovaCraft,66.26,112.45,2025-03-26,Active
+242,CrispCo Running Shoes,6,CrispCo,38.78,50.29,2025-03-23,Active
+243,NimbusTech Running Shoes,6,NimbusTech,49.35,75.88,2023-01-06,Active
+244,EcoCo Running Shoes,6,EcoCo,16.9,32.01,2022-02-05,Active
+245,ZenStyle Canvas Sneakers,6,ZenStyle,23.38,30.55,2025-01-10,Active
+246,SwiftTech Sandals,6,SwiftTech,38.93,67.24,2024-06-18,Active
+247,CrispCo Running Shoes,6,CrispCo,88.11,149.84,2024-01-25,Discontinued
+248,NimbusLabs Trail Runners,6,NimbusLabs,62.0,143.86,2025-09-10,Active
+249,HomeCraft Canvas Sneakers,6,HomeCraft,59.34,83.38,2024-04-01,Active
+250,NovaLabs Slip-On Loafers,6,NovaLabs,46.12,108.89,2021-06-13,Active
+251,SmartLabs Trail Runners,6,SmartLabs,36.71,60.29,2024-12-15,Active
+252,CrispCo Ankle Boots,6,CrispCo,18.51,29.7,2022-09-17,Active
+253,UrbanPro Business Strategy Book,7,UrbanPro,3.96,5.01,2024-04-16,Active
+254,NovaPro Mystery Novel,7,NovaPro,12.33,25.29,2025-06-26,Active
+255,NovaTech Mystery Novel,7,NovaTech,28.28,38.66,2021-12-30,Active
+256,BoldPro Mystery Novel,7,BoldPro,7.27,13.33,2021-11-30,Active
+257,PrimeLabs Cookbook,7,PrimeLabs,15.93,32.26,2021-11-17,Active
+258,VitalCraft Cookbook,7,VitalCraft,5.86,8.39,2023-10-24,Active
+259,CrispPro Self-Help Guide,7,CrispPro,4.46,7.73,2022-08-06,Active
+260,HomeLabs Poetry Collection,7,HomeLabs,5.39,7.03,2024-01-14,Active
+261,LumenCraft Cookbook,7,LumenCraft,53.65,56.47,2024-07-10,Active
+262,LumenCo Cookbook,7,LumenCo,18.65,25.53,2022-04-19,Active
+263,NovaCo Children's Picture Book,7,NovaCo,18.96,39.19,2024-02-29,Clearance
+264,VitalWorks Mystery Novel,7,VitalWorks,20.71,22.29,2022-07-23,Active
+265,UrbanCraft Self-Help Guide,7,UrbanCraft,30.87,39.0,2023-07-14,Active
+266,CrispLabs Self-Help Guide,7,CrispLabs,15.7,18.29,2025-05-04,Active
+267,SwiftLabs History Book,7,SwiftLabs,4.33,5.01,2025-01-30,Active
+268,AeroLabs Children's Picture Book,7,AeroLabs,5.5,7.67,2021-10-25,Active
+269,BoldWorks History Book,7,BoldWorks,2.71,5.8,2023-04-02,Active
+270,LumenWorks Cookbook,7,LumenWorks,14.12,27.06,2022-08-12,Discontinued
+271,EcoTech Mystery Novel,7,EcoTech,5.52,7.75,2021-06-06,Active
+272,EcoTech Self-Help Guide,7,EcoTech,9.87,12.25,2024-10-03,Active
+273,PrimeFit Poetry Collection,7,PrimeFit,6.02,8.33,2024-03-05,Active
+274,PureLabs Mystery Novel,7,PureLabs,5.99,6.53,2022-07-20,Active
+275,EcoTech Cookbook,7,EcoTech,17.76,32.58,2024-08-17,Active
+276,BoldTech Poetry Collection,7,BoldTech,3.56,5.58,2023-10-22,Active
+277,ZenGear Mystery Novel,7,ZenGear,28.39,37.07,2023-04-09,Active
+278,PureFit Sci-Fi Novel,7,PureFit,16.2,17.05,2021-06-16,Active
+279,CrispCraft History Book,7,CrispCraft,4.34,6.87,2021-09-28,Active
+280,PureGear Mystery Novel,7,PureGear,35.28,43.02,2025-03-29,Active
+281,SwiftCraft Sci-Fi Novel,7,SwiftCraft,18.07,24.11,2025-05-01,Active
+282,EcoLabs Sci-Fi Novel,7,EcoLabs,6.62,11.33,2023-10-12,Active
+283,EcoWorks Self-Help Guide,7,EcoWorks,15.38,19.83,2025-01-12,Active
+284,SwiftPro Sci-Fi Novel,7,SwiftPro,4.8,6.33,2023-12-10,Active
+285,NimbusCraft History Book,7,NimbusCraft,14.29,20.24,2022-01-21,Active
+286,SmartWorks History Book,7,SmartWorks,31.17,50.11,2021-12-19,Active
+287,NimbusPro Children's Picture Book,7,NimbusPro,8.69,13.26,2022-10-01,Active
+288,NimbusGear Mystery Novel,7,NimbusGear,2.78,5.5,2025-04-24,Active
+289,AeroPro Self-Help Guide,7,AeroPro,39.13,41.55,2024-11-12,Active
+290,PeakWorks Mystery Novel,7,PeakWorks,30.34,35.31,2025-02-22,Active
+291,NimbusCraft History Book,7,NimbusCraft,7.37,9.79,2025-04-23,Active
+292,PureTech Sci-Fi Novel,7,PureTech,11.35,18.96,2022-04-29,Active
+293,CrispStyle History Book,7,CrispStyle,15.18,21.89,2022-07-01,Active
+294,SmartTech Mystery Novel,7,SmartTech,22.86,37.51,2021-11-10,Active
+295,SwiftGear Action Figure,8,SwiftGear,13.65,14.37,2024-10-17,Active
+296,PureTech Building Block Set,8,PureTech,25.26,36.03,2025-03-31,Active
+297,PeakFit Action Figure,8,PeakFit,3.05,5.31,2023-03-06,Active
+298,BoldCraft Action Figure,8,BoldCraft,5.15,7.5,2024-02-08,Active
+299,CrispCo Plush Bear,8,CrispCo,9.21,15.75,2022-01-31,Active
+300,NovaWorks Plush Bear,8,NovaWorks,6.75,7.99,2025-06-12,Discontinued
+301,VitalGear Plush Bear,8,VitalGear,14.81,37.32,2025-02-28,Discontinued
+302,EcoCo Action Figure,8,EcoCo,28.14,43.59,2025-08-24,Active
+303,HomeCraft Remote Control Car,8,HomeCraft,14.04,18.88,2024-12-05,Active
+304,NovaCo Building Block Set,8,NovaCo,14.73,28.88,2025-03-27,Active
+305,EcoPro Remote Control Car,8,EcoPro,23.14,40.06,2021-07-10,Active
+306,LumenGear Plush Bear,8,LumenGear,12.86,18.89,2024-08-09,Active
+307,PeakCraft Doll House,8,PeakCraft,4.84,5.85,2022-11-08,Active
+308,ZenStyle Plush Bear,8,ZenStyle,7.69,10.18,2025-06-13,Discontinued
+309,SwiftStyle Plush Bear,8,SwiftStyle,20.47,39.33,2024-11-21,Active
+310,PeakCraft Toy Kitchen Set,8,PeakCraft,3.95,6.85,2025-02-27,Active
+311,EcoWorks Toy Kitchen Set,8,EcoWorks,26.45,55.94,2024-12-05,Active
+312,LumenWorks Puzzle 1000pc,8,LumenWorks,10.84,13.06,2022-07-28,Active
+313,AeroPro Action Figure,8,AeroPro,25.34,34.72,2024-10-29,Active
+314,AeroStyle Board Game,8,AeroStyle,3.08,5.46,2021-11-19,Active
+315,UrbanGear Doll House,8,UrbanGear,9.92,18.01,2025-03-12,Active
+316,SmartPro Plush Bear,8,SmartPro,3.64,5.65,2025-02-19,Discontinued
+317,HomeTech Plush Bear,8,HomeTech,26.15,48.27,2022-05-19,Active
+318,PureStyle Plush Bear,8,PureStyle,12.88,36.55,2024-12-14,Active
+319,PureGear Plush Bear,8,PureGear,2.21,6.26,2023-05-30,Active
+320,PrimeCo Toy Kitchen Set,8,PrimeCo,8.27,12.8,2022-09-27,Active
+321,EcoTech Board Game,8,EcoTech,18.48,25.34,2024-11-11,Active
+322,PrimeStyle Plush Bear,8,PrimeStyle,15.95,30.06,2022-05-27,Active
+323,CrispTech Doll House,8,CrispTech,10.19,17.22,2021-07-08,Active
+324,AeroGear Puzzle 1000pc,8,AeroGear,45.59,59.23,2022-04-02,Active
+325,LumenCraft Toy Kitchen Set,8,LumenCraft,9.76,21.82,2022-11-02,Active
+326,AeroCo Building Block Set,8,AeroCo,25.09,57.29,2025-02-28,Active
+327,UrbanWorks Action Figure,8,UrbanWorks,24.4,38.57,2025-08-09,Active
+328,NovaGear Puzzle 1000pc,8,NovaGear,8.39,24.4,2022-08-16,Active
+329,UrbanCraft Puzzle 1000pc,8,UrbanCraft,18.77,26.55,2024-03-12,Active
+330,SwiftCo Puzzle 1000pc,8,SwiftCo,23.14,37.62,2023-02-23,Active
+331,ZenWorks Board Game,8,ZenWorks,19.33,31.86,2025-09-01,Active
+332,SmartCraft Action Figure,8,SmartCraft,20.59,32.02,2023-09-27,Active
+333,PurePro Building Block Set,8,PurePro,3.05,7.34,2025-06-26,Active
+334,NimbusFit Board Game,8,NimbusFit,26.03,44.84,2021-11-30,Active
+335,BoldTech Doll House,8,BoldTech,9.53,16.42,2025-08-15,Active
+336,PrimeFit Remote Control Car,8,PrimeFit,4.77,6.86,2022-03-10,Active
+337,HomePro Canvas Tote Bag,9,HomePro,18.79,34.92,2025-08-02,Active
+338,ZenTech Canvas Tote Bag,9,ZenTech,18.24,38.41,2022-07-26,Active
+339,HomeTech Sunglasses,9,HomeTech,8.65,13.25,2021-11-19,Active
+340,ZenTech Baseball Cap,9,ZenTech,3.86,9.85,2023-04-19,Active
+341,PeakFit Beaded Bracelet,9,PeakFit,3.37,8.99,2024-07-28,Active
+342,PrimeCraft Canvas Tote Bag,9,PrimeCraft,15.62,24.71,2022-10-10,Active
+343,ZenCo Canvas Tote Bag,9,ZenCo,21.56,47.81,2024-01-16,Active
+344,LumenLabs Leather Wallet,9,LumenLabs,3.41,5.2,2023-08-19,Active
+345,ZenCraft Canvas Tote Bag,9,ZenCraft,10.64,19.72,2023-01-31,Active
+346,PureLabs Sunglasses,9,PureLabs,21.61,35.87,2023-11-30,Active
+347,SwiftStyle Leather Wallet,9,SwiftStyle,4.06,10.92,2022-07-09,Active
+348,LumenStyle Silk Scarf,9,LumenStyle,31.63,51.54,2024-06-27,Active
+349,PureFit Sunglasses,9,PureFit,3.95,8.12,2021-06-03,Active
+350,HomeLabs Canvas Tote Bag,9,HomeLabs,18.89,39.73,2025-06-05,Active
+351,PeakTech Sunglasses,9,PeakTech,4.31,9.65,2023-10-01,Active
+352,CrispFit Analog Watch,9,CrispFit,19.41,37.84,2024-07-13,Active
+353,PrimeGear Silk Scarf,9,PrimeGear,8.59,14.55,2024-08-18,Active
+354,UrbanLabs Beaded Bracelet,9,UrbanLabs,13.67,34.04,2024-04-27,Active
+355,BoldTech Analog Watch,9,BoldTech,13.76,20.67,2022-12-29,Clearance
+356,NovaTech Sunglasses,9,NovaTech,6.06,18.15,2021-09-19,Discontinued
+357,HomeCraft Baseball Cap,9,HomeCraft,3.61,12.59,2024-04-17,Active
+358,PeakCo Canvas Tote Bag,9,PeakCo,9.37,16.46,2022-11-05,Active
+359,PeakLabs Sunglasses,9,PeakLabs,5.03,13.91,2022-10-10,Active
+360,NimbusPro Sunglasses,9,NimbusPro,12.47,30.66,2025-02-02,Discontinued
+361,EcoWorks Sunglasses,9,EcoWorks,1.98,7.93,2024-07-14,Active
+362,SmartTech Beaded Bracelet,9,SmartTech,21.27,47.69,2022-09-19,Active
+363,PureFit Leather Wallet,9,PureFit,3.36,6.99,2022-10-03,Active
+364,UrbanGear Sunglasses,9,UrbanGear,14.8,40.99,2023-03-09,Clearance
+365,AeroTech Beaded Bracelet,9,AeroTech,9.06,34.98,2023-02-27,Active
+366,SwiftCo Beaded Bracelet,9,SwiftCo,10.29,41.16,2022-09-12,Clearance
+367,BoldStyle Silk Scarf,9,BoldStyle,8.9,23.28,2021-12-19,Active
+368,UrbanTech Beaded Bracelet,9,UrbanTech,31.51,51.5,2023-03-28,Active
+369,NovaStyle Sunglasses,9,NovaStyle,10.81,31.82,2025-06-28,Active
+370,VitalCo Baseball Cap,9,VitalCo,3.88,6.7,2024-05-08,Active
+371,SwiftWorks Silk Scarf,9,SwiftWorks,6.45,13.35,2025-04-30,Active
+372,PureStyle Sunglasses,9,PureStyle,13.91,31.18,2024-01-31,Active
+373,CrispTech Baseball Cap,9,CrispTech,16.86,54.41,2022-09-20,Active
+374,CrispTech Phone Case,9,CrispTech,4.94,11.99,2023-10-16,Active
+375,AeroGear Sunglasses,9,AeroGear,5.57,13.93,2021-06-01,Active
+376,AeroWorks Beaded Bracelet,9,AeroWorks,7.66,12.94,2022-08-29,Active
+377,CrispFit Sunglasses,9,CrispFit,3.25,11.55,2023-04-12,Active
+378,CrispGear Whiteboard,10,CrispGear,4.51,5.31,2023-12-06,Active
+379,PrimeCo Desk Lamp,10,PrimeCo,3.4,5.74,2024-04-02,Active
+380,ZenLabs Notebook Set,10,ZenLabs,7.57,13.39,2023-06-07,Clearance
+381,PrimeLabs Desk Lamp,10,PrimeLabs,31.61,43.07,2023-05-01,Active
+382,UrbanWorks Desk Lamp,10,UrbanWorks,13.35,34.67,2022-05-05,Active
+383,EcoPro Gel Pens Pack,10,EcoPro,19.06,29.19,2023-06-20,Active
+384,NimbusGear Desk Lamp,10,NimbusGear,11.82,16.32,2025-04-27,Active
+385,UrbanTech Notebook Set,10,UrbanTech,35.44,37.58,2024-11-12,Active
+386,LumenTech Desk Organizer,10,LumenTech,36.68,56.02,2022-02-24,Active
+387,BoldFit Whiteboard,10,BoldFit,4.6,8.46,2021-10-13,Active
+388,HomeCraft Notebook Set,10,HomeCraft,31.28,58.5,2023-08-25,Active
+389,VitalStyle Stapler,10,VitalStyle,22.79,34.25,2024-02-27,Active
+390,PureFit Stapler,10,PureFit,15.43,18.3,2022-11-13,Active
+391,PeakCraft Desk Organizer,10,PeakCraft,5.85,7.62,2024-12-17,Active
+392,ZenCraft Desk Organizer,10,ZenCraft,5.62,9.22,2024-09-02,Active
+393,NimbusLabs Stapler,10,NimbusLabs,3.84,6.07,2024-05-01,Active
+394,BoldLabs Desk Organizer,10,BoldLabs,20.62,27.7,2022-05-22,Active
+395,NimbusCo Desk Organizer,10,NimbusCo,9.21,19.82,2022-04-12,Active
+396,UrbanTech Desk Lamp,10,UrbanTech,5.67,6.99,2021-07-09,Active
+397,VitalLabs Desk Lamp,10,VitalLabs,10.43,15.18,2022-06-23,Discontinued
+398,AeroGear Desk Organizer,10,AeroGear,4.98,14.96,2023-06-23,Active
+399,BoldStyle Sticky Notes,10,BoldStyle,27.31,33.08,2025-02-05,Active
+400,VitalPro Desk Lamp,10,VitalPro,41.72,50.17,2021-09-24,Active
+401,SwiftCo Filing Folder Set,10,SwiftCo,3.94,5.98,2023-03-19,Active
+402,PeakWorks Filing Folder Set,10,PeakWorks,8.94,17.04,2024-02-22,Active
+403,VitalWorks Desk Lamp,10,VitalWorks,7.45,8.57,2022-04-04,Clearance
+404,HomeCo Sticky Notes,10,HomeCo,30.18,33.82,2024-06-07,Clearance
+405,SmartCo Filing Folder Set,10,SmartCo,37.48,51.83,2023-07-23,Active
+406,HomeTech Gel Pens Pack,10,HomeTech,17.71,24.62,2022-06-22,Active
+407,HomeFit Desk Organizer,10,HomeFit,11.53,17.33,2024-04-04,Active
+408,LumenCraft Filing Folder Set,10,LumenCraft,5.56,8.72,2021-06-09,Active
+409,SwiftFit Stapler,10,SwiftFit,32.95,59.04,2024-09-01,Active
+410,PureCraft Stapler,10,PureCraft,24.48,42.37,2024-10-01,Active
+411,EcoWorks Stapler,10,EcoWorks,6.02,10.62,2021-11-16,Active
+412,BoldWorks Filing Folder Set,10,BoldWorks,27.57,47.51,2023-04-05,Active
+413,NovaFit Stapler,10,NovaFit,13.28,20.14,2022-03-06,Active
+414,VitalCraft Sticky Notes,10,VitalCraft,25.03,32.17,2025-07-26,Active
+415,VitalTech Sticky Notes,10,VitalTech,34.23,41.38,2023-08-29,Active
+416,SmartPro Whiteboard,10,SmartPro,14.19,19.81,2021-08-19,Active
+417,AeroTech Gel Pens Pack,10,AeroTech,5.83,9.9,2022-06-30,Clearance
+418,SwiftGear Desk Lamp,10,SwiftGear,2.88,5.28,2025-02-02,Active
+419,VitalCo Cat Scratching Post,11,VitalCo,25.46,55.28,2023-05-24,Active
+420,ZenCo Aquarium Filter,11,ZenCo,16.7,25.5,2024-11-20,Active
+421,PrimeWorks Dog Leash,11,PrimeWorks,25.07,35.95,2024-04-22,Active
+422,HomeTech Pet Food Bowl,11,HomeTech,117.15,137.92,2025-09-11,Active
+423,LumenWorks Litter Box,11,LumenWorks,20.29,37.37,2023-12-30,Active
+424,PrimeWorks Dog Leash,11,PrimeWorks,22.51,25.84,2025-07-13,Active
+425,SmartCo Dog Leash,11,SmartCo,60.34,106.82,2025-04-12,Active
+426,CrispStyle Chew Toy Set,11,CrispStyle,65.5,73.7,2024-01-26,Clearance
+427,BoldFit Pet Food Bowl,11,BoldFit,35.9,52.49,2024-07-13,Active
+428,ZenCo Aquarium Filter,11,ZenCo,20.0,35.86,2023-08-09,Clearance
+429,UrbanGear Pet Food Bowl,11,UrbanGear,15.64,25.55,2025-01-05,Active
+430,NimbusTech Aquarium Filter,11,NimbusTech,80.96,142.33,2023-10-16,Discontinued
+431,AeroStyle Dog Bed,11,AeroStyle,52.94,75.21,2025-04-21,Active
+432,PureWorks Cat Scratching Post,11,PureWorks,71.63,94.1,2024-08-21,Active
+433,HomeStyle Pet Food Bowl,11,HomeStyle,48.19,62.33,2023-06-22,Active
+434,ZenTech Dog Leash,11,ZenTech,26.25,48.42,2022-07-16,Active
+435,PeakWorks Pet Food Bowl,11,PeakWorks,73.78,93.16,2022-06-27,Active
+436,NimbusCo Chew Toy Set,11,NimbusCo,81.8,115.0,2024-03-06,Active
+437,ZenGear Dog Bed,11,ZenGear,77.15,86.53,2024-09-25,Active
+438,UrbanWorks Dog Bed,11,UrbanWorks,61.84,83.67,2023-09-04,Discontinued
+439,EcoWorks Litter Box,11,EcoWorks,35.13,41.67,2024-02-18,Active
+440,CrispLabs Pet Food Bowl,11,CrispLabs,58.97,113.17,2022-08-09,Active
+441,UrbanCo Cat Scratching Post,11,UrbanCo,86.3,122.09,2021-10-01,Active
+442,AeroFit Cat Scratching Post,11,AeroFit,49.0,85.69,2022-08-27,Active
+443,ZenTech Cat Scratching Post,11,ZenTech,34.58,52.53,2022-08-05,Active
+444,ZenCraft Dog Bed,11,ZenCraft,59.45,75.17,2022-10-20,Active
+445,CrispPro Chew Toy Set,11,CrispPro,22.29,39.01,2023-10-04,Active
+446,NovaLabs Litter Box,11,NovaLabs,32.48,49.2,2022-01-06,Active
+447,HomePro Dog Leash,11,HomePro,33.7,46.37,2022-06-02,Active
+448,VitalPro Litter Box,11,VitalPro,81.47,135.29,2024-06-03,Active
+449,SmartLabs Aquarium Filter,11,SmartLabs,65.71,102.51,2024-06-23,Active
+450,UrbanGear Aquarium Filter,11,UrbanGear,19.15,26.97,2021-09-10,Active
+451,VitalTech Litter Box,11,VitalTech,94.09,146.72,2023-03-08,Active
+452,PrimePro Litter Box,11,PrimePro,34.92,44.67,2023-10-07,Active
+453,UrbanWorks Dog Bed,11,UrbanWorks,12.05,27.43,2023-03-21,Active
+454,HomeStyle Pet Food Bowl,11,HomeStyle,16.47,29.41,2022-04-24,Active
+455,PeakWorks Aquarium Filter,11,PeakWorks,25.38,39.75,2023-03-28,Active
+456,NimbusTech Chew Toy Set,11,NimbusTech,38.87,41.25,2025-05-03,Active
+457,PrimeWorks Aquarium Filter,11,PrimeWorks,19.24,34.92,2023-12-12,Clearance
+458,NimbusCraft Chew Toy Set,11,NimbusCraft,24.53,35.79,2024-06-06,Active
+459,VitalLabs Pet Carrier,11,VitalLabs,26.02,47.24,2025-02-16,Active
+460,UrbanWorks Essential Oil Set,12,UrbanWorks,31.97,47.76,2024-09-24,Active
+461,UrbanTech Vitamin C Tablets,12,UrbanTech,21.15,46.19,2023-01-24,Active
+462,LumenWorks Vitamin C Tablets,12,LumenWorks,19.4,38.33,2021-06-10,Active
+463,LumenGear Digital Thermometer,12,LumenGear,60.81,89.27,2022-12-09,Active
+464,PureWorks Massage Gun,12,PureWorks,16.88,33.47,2024-09-05,Active
+465,CrispTech Essential Oil Set,12,CrispTech,12.47,25.64,2025-02-11,Active
+466,PureFit Vitamin C Tablets,12,,23.9,30.35,2025-07-19,Active
+467,BoldPro Massage Gun,12,BoldPro,19.57,35.32,2023-03-26,Active
+468,UrbanGear Massage Gun,12,UrbanGear,22.55,44.99,2024-08-27,Clearance
+469,SmartTech Massage Gun,12,SmartTech,67.39,147.55,2023-10-13,Active
+470,CrispStyle Yoga Block,12,CrispStyle,21.7,43.93,2024-01-11,Active
+471,PeakStyle Essential Oil Set,12,PeakStyle,29.32,54.44,2022-05-16,Active
+472,LumenLabs Massage Gun,12,LumenLabs,101.35,132.14,2022-05-14,Active
+473,ZenLabs Vitamin C Tablets,12,ZenLabs,37.06,81.02,2023-04-21,Active
+474,AeroLabs Blood Pressure Monitor,12,AeroLabs,49.71,73.57,2021-07-16,Discontinued
+475,CrispFit Sleep Mask,12,CrispFit,11.89,26.98,2022-11-15,Active
+476,EcoGear Essential Oil Set,12,EcoGear,29.05,53.55,2024-05-11,Active
+477,BoldGear Sleep Mask,12,BoldGear,24.5,44.98,2023-03-03,Active
+478,EcoWorks Massage Gun,12,EcoWorks,32.42,61.53,2022-02-17,Active
+479,PureCo Yoga Block,12,PureCo,58.89,109.41,2023-06-10,Active
+480,EcoPro Blood Pressure Monitor,12,EcoPro,91.41,141.54,2021-12-20,Active
+481,LumenWorks Yoga Block,12,LumenWorks,43.2,108.3,2024-02-11,Active
+482,HomeTech Sleep Mask,12,HomeTech,15.45,30.73,2021-07-13,Active
+483,UrbanPro Massage Gun,12,UrbanPro,64.03,107.85,2023-02-14,Active
+484,PureFit Massage Gun,12,PureFit,53.43,82.0,2023-11-11,Active
+485,UrbanGear Massage Gun,12,UrbanGear,28.88,44.62,2021-07-13,Active
+486,HomeWorks Essential Oil Set,12,HomeWorks,21.94,33.08,2024-03-14,Active
+487,CrispWorks Massage Gun,12,CrispWorks,28.32,59.33,2022-01-01,Discontinued
+488,BoldGear Vitamin C Tablets,12,BoldGear,84.44,132.23,2023-06-01,Active
+489,PrimeCraft Protein Powder,12,PrimeCraft,36.68,52.7,2021-08-19,Active
+490,ZenStyle Massage Gun,12,ZenStyle,43.26,88.46,2023-01-22,Clearance
+491,AeroCo Vitamin C Tablets,12,AeroCo,62.58,80.91,2022-05-02,Active
+492,PrimeStyle Protein Powder,12,PrimeStyle,67.85,120.17,2022-10-31,Active
+493,NimbusCraft Blood Pressure Monitor,12,NimbusCraft,28.16,42.55,2024-09-18,Active
+494,VitalWorks Massage Gun,12,VitalWorks,38.58,49.92,2023-01-22,Active
+495,UrbanCo Massage Gun,12,UrbanCo,28.54,46.42,2024-09-03,Active
+496,EcoPro Essential Oil Set,12,EcoPro,30.11,71.63,2025-01-07,Active
+497,AeroGear Sleep Mask,12,AeroGear,16.72,27.77,2022-07-05,Active
+498,CrispWorks Sleep Mask,12,CrispWorks,19.13,56.84,2021-10-08,Active
+499,NovaTech Protein Powder,12,NovaTech,38.99,62.09,2021-07-01,Active
+500,CrispCo Protein Powder,12,CrispCo,40.42,74.9,2023-10-02,Active

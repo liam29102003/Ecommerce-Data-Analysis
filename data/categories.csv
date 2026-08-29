@@ -1,0 +1,13 @@
+category_id,category_name,department,price_tier,base_margin_pct,base_return_rate
+1,Electronics,Technology,high,0.22,0.11
+2,Home & Kitchen,Home,mid,0.35,0.07
+3,Beauty,Personal Care,low,0.55,0.05
+4,Sports,Lifestyle,mid,0.4,0.06
+5,Clothing,Apparel,low,0.48,0.14
+6,Shoes,Apparel,mid,0.42,0.13
+7,Books,Media,low,0.3,0.02
+8,Toys,Lifestyle,low,0.38,0.06
+9,Accessories,Apparel,low,0.6,0.05
+10,Office Supplies,Home,low,0.33,0.03
+11,Pet Supplies,Home,mid,0.37,0.04
+12,Health & Wellness,Personal Care,mid,0.45,0.05

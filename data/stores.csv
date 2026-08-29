@@ -1,0 +1,21 @@
+store_id,store_name,region_id,store_type,opened_date
+1,NovaMart North Fulfillment 1,1,Fulfillment Center,2020-02-11
+2,NovaMart North Regional 2,1,Regional Warehouse,2015-03-15
+3,NovaMart North Regional 3,1,Regional Warehouse,2017-03-14
+4,NovaMart South Fulfillment 1,2,Fulfillment Center,2016-10-13
+5,NovaMart East Fulfillment 1,3,Fulfillment Center,2020-11-21
+6,NovaMart East Regional 2,3,Regional Warehouse,2020-05-30
+7,NovaMart East Regional 3,3,Regional Warehouse,2022-02-19
+8,NovaMart East Regional 4,3,Regional Warehouse,2015-09-11
+9,NovaMart West Fulfillment 1,4,Fulfillment Center,2018-05-17
+10,NovaMart Central Fulfillment 1,5,Fulfillment Center,2015-03-29
+11,NovaMart Central Regional 2,5,Regional Warehouse,2016-09-30
+12,NovaMart Northeast Fulfillment 1,6,Fulfillment Center,2019-01-16
+13,NovaMart Northeast Regional 2,6,Regional Warehouse,2015-03-19
+14,NovaMart Northeast Regional 3,6,Regional Warehouse,2016-08-03
+15,NovaMart Northeast Regional 4,6,Regional Warehouse,2020-03-13
+16,NovaMart Southeast Fulfillment 1,7,Fulfillment Center,2019-05-11
+17,NovaMart Southeast Regional 2,7,Regional Warehouse,2016-10-05
+18,NovaMart Pacific Fulfillment 1,8,Fulfillment Center,2019-09-18
+19,NovaMart Pacific Regional 2,8,Regional Warehouse,2021-06-22
+20,NovaMart Pacific Regional 3,8,Regional Warehouse,2015-01-19

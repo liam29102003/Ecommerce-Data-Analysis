@@ -1,0 +1,9 @@
+region_id,region_name,country,market_type
+1,North,Novaland,Urban
+2,South,Novaland,Urban
+3,East,Novaland,Urban
+4,West,Novaland,Suburban
+5,Central,Novaland,Suburban
+6,Northeast,Novaland,Rural
+7,Southeast,Novaland,Rural
+8,Pacific,Novaland,Remote
