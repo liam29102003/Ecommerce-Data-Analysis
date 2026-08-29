@@ -1,0 +1,37 @@
+Business Questions
+
+Core business questions
+
+1. What is overall sales performance?
+2. How is sales changing over time?
+3. Which periods are strongest/weakest?
+4. Which products generate the most revenue?
+5. Which products have the highest sales volume?
+6. Which brands generate the most revenue?
+7. Which customer segments generate the most revenue?
+8. Which customers generate the most revenue?
+9. Which cities perform strongest/weakest?
+10. Which payment methods are most commonly used?
+11. What percentage of orders are returned?
+12. Which products/categories have the highest return activity?
+13. What are the most common return reasons?
+14. Are certain locations associated with high returns?
+
+Diagnostic questions - to explain core results
+
+15. High volume but low revenue?
+16. Underperforming products?
+17. Revenue concentration?
+18. Geographic customer behavior?
+19. Payment behavior by location?
+20. Payment behavior by customer group?
+21. Unusual payment patterns?
+22. High-selling + high-return products?
+
+Data quality / validation questions - to establish whether we can trust the analysis
+
+23 — Order/payment date inconsistencies
+24 — Missing values
+25 — Duplicates
+26 — Invalid/inconsistent values
+27 — Impact of data-quality problems
