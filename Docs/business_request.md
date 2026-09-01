@@ -57,6 +57,3 @@ The ultimate goal is to help NovaMart answer:
 
 > **"What is driving our sales performance, where are we experiencing problems, and what areas should management prioritize for improvement?"**
 
-
-
-this is the prolem statement from my data analysis project, you and me togehter , let' break down and make this understand before extracing analytical business questions
