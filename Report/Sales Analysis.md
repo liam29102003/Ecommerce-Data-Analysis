@@ -60,3 +60,28 @@
 - Product margins range from **5.91% to 53.00%**.
 - High revenue does not always mean high profitability.
 - Shoes generally show higher margins than the Electronics products in the top 20.
+
+---
+
+## 5. Top Products by Sales Volume
+
+**Key findings:**
+
+- AeroPro Action Figure ranks #1 with 41,769 units sold, almost twice the volume of the #2 product, PureCraft Resistance Bands (21,700).
+- Resistance Bands appear 3 times in the top 20, across PureCraft, EcoFit, and VitalLabs.
+- PeakCraft Wireless Headphones rank only #8 by volume, but generate the highest revenue among these products at $3.38M.
+- AeroPro Action Figure is strong in both volume and revenue, generating $1.35M from 41,769 units.
+- The results show that high sales volume does not necessarily mean high revenue, as demonstrated by PeakCraft's relatively low volume but very high revenue.
+
+  ---
+
+## 6. Brand Performance
+
+**Key findings:**
+
+- PeakCraft ranks #1 in revenue with $3.40M, despite selling only 10,088 units.
+- AeroPro ranks #2 with 42,152 units sold and $1.36M revenue, making it the strongest brand by sales volume among the top brands.
+- PureCraft ranks #3 with $1.00M revenue and 22,732 units sold.
+- Some brands generate relatively high revenue with only a small number of products. For example, BoldCo has just 1 product but generates $690K revenue.
+- At the bottom, SwiftLabs generates only $316.57 from 67 units, while NovaWorks generates $801.80.
+- Overall, brand performance varies considerably, suggesting that product count alone does not determine revenue performance.
