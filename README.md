@@ -220,7 +220,12 @@ The dashboard focuses on:
 
 ![NovaMart Power BI Executive Dashboard](Report/Sales_Trend.png)
 
+---
+## Time & Seasonality
 
+![NovaMart Power BI Executive Dashboard](Report/Time&Seasonality.png)
+
+---
 ### Dashboard Design Approach
 
 The dashboard is built **after the SQL KPI definitions are finalized** so that the numbers presented in Power BI remain consistent with the analytical logic.
