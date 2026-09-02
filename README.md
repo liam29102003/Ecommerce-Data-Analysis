@@ -210,13 +210,16 @@ The dashboard focuses on:
 
 ### Dashboard Screenshot
 
-> **📊 SCREENSHOT PLACEHOLDER — Insert Power BI Executive Dashboard screenshot here**
->
-> Recommended screenshot: full dashboard page showing the main KPI cards, revenue trend, product/category performance, and key filters.
+## Overall Performance
 
-<!--
-![NovaMart Power BI Executive Dashboard](images/powerbi-executive-dashboard.png)
--->
+![NovaMart Power BI Executive Dashboard](Report/Overall_Performance.png)
+
+---
+
+## Sales Trend
+
+![NovaMart Power BI Executive Dashboard](Report/Sales_Trend.png)
+
 
 ### Dashboard Design Approach
 
