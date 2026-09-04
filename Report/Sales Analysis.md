@@ -83,6 +83,8 @@
 - At the bottom, SwiftLabs generates only $316.57 from 67 units, while NovaWorks generates $801.80.
 - Overall, brand performance varies considerably, suggesting that product count alone does not determine revenue performance.
 
+---
+
 ## 7. Customer Segment Performance
 
 - Standard customers generate the highest total revenue at $8.52M, followed by Premium at $7.09M.
@@ -93,11 +95,63 @@
 
 Customer segments differ significantly in value. VIP customers are the most valuable on a per-customer basis, while Standard customers contribute the most total revenue due to their larger customer base.
 
+---
+
 ## 8. Payment Method Analysis
 
 - Credit Card is the most-used payment method with 48,077 payments (40.06%) and $12.32M in total payment amount.
 - Debit Card ranks second at 21.88%, followed by Digital Wallet (15.87%) and PayPal (14.17%).
 - Bank Transfer is the least-used method at 8.03%.
 - Credit and Debit Cards together account for 61.94% of all payments.
-- 
+  
 Card payments dominate the payment mix, accounting for nearly two-thirds of all transactions.
+
+---
+
+## 9. Return Rate Analysis
+
+- 15,050 orders had at least one return.
+- Total orders: 120,000
+- Overall return rate: 12.54%
+- This means roughly 1 in 8 orders was returned.
+
+ Returns affect a meaningful portion of orders, with 12.54% of all orders having at least one return.
+
+---
+
+## 10. Product Return Analysis
+
+
+- AeroPro Action Figure has the highest return count with 464 returns, followed by PureCraft Resistance Bands with 243.
+- PeakCraft Wireless Headphones rank 3rd by returns but have the highest refund amount at $101.7K.
+- Shoes and Electronics appear multiple times among the top 20 returned products.
+- AeroPro Action Figure has both high sales volume and the highest number of returns, making it a notable product for further investigation.
+- Return volume and refund value don't always move together. For example, PrimeCraft Cotton T-Shirt has 186 returns but only $4.1K refunded, while PeakCraft has 218 returns and $101.7K refunded.
+
+Return patterns vary significantly by product. High return counts don't necessarily result in the highest refund amounts, so both return frequency and financial impact should be considered.
+
+---
+
+## 11. Return Reason Analysis
+
+* **Size issues** are the most common reason, accounting for **24.46%** of returns (3,681 cases) and **$897K** in refunds.
+* **Damaged items** are the second-largest reason at **16.86%**, with **$698K** refunded.
+* **Customer changed mind** accounts for **16.33%** of returns, but has a lower refund impact of **$454K**.
+* **Poor quality, wrong item, and late delivery** each contribute around **13–15%** of returns.
+* Size issues and damaged items together account for **41.32% of all returns** and about **$1.59M in refunds**.
+
+Returns are mainly driven by **product fit/size issues and product condition**, making these the strongest areas for reducing return volume and refund costs.
+
+---
+
+## 12. Regional Return Analysis
+
+
+* **East Urban** has the highest return count with **2,415 returns**, followed by **North Urban** with 2,393.
+* East also has the highest total refunds at **$566.6K**.
+* **Southeast Rural** has the highest average refund at **$246.71**, followed by **Pacific Remote** at $244.09.
+* Urban markets generate more returns overall, while **Rural and Remote markets have higher average refund values**.
+* The difference in return volume is much larger than the difference in average refund, suggesting that market size drives most of the regional variation.
+
+Return volume is concentrated in **Urban markets**, while **Rural and Remote markets have slightly higher refund values per return**.
+
